@@ -23,5 +23,8 @@ hs_err_pid*
 
 *.classpath*
 *.project
+.project
 *.settings/*
+.settings/*
 *target/*
+*.mvn*
